@@ -43,12 +43,3 @@
 | **Para**         | Acceder y gestionar mis tareas desde cualquier dispositivo         |
 | **Criterios de Aceptación** | - La interfaz es accesible y usable en todos los dispositivos.<br> - Ajuste correcto según el tamaño de la pantalla.<br> - Funcional y fácil de usar en cualquier resolución. |
 | **IA Utilizada** | ChatGPT asistió en el diseño, y Testim validó la interfaz.        |
-
----
-
-#### **Cronograma del Sprint 2**
-
-| **Fecha**    | **Actividad**                         |
-|--------------|---------------------------------------|
-| 11 de agosto  | Sprint Planning, Sprint Execution (HU1, HU2) |
-| 12 de agosto | Sprint Execution (HU3), Daily Scrum, Sprint Review, Sprint Retrospective |

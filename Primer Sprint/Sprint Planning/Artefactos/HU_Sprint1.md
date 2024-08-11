@@ -42,12 +42,3 @@
 | **Para**         | Distinguir claramente entre tareas pendientes y completadas        |
 | **Criterios de Aceptación** | - El usuario puede marcar una tarea como completada.<br> - Las tareas completadas se visualizan distintamente.<br> - Posibilidad de revertir a pendiente.           |
 | **IA Utilizada** | GitHub Copilot asistió en la implementación de esta funcionalidad. |
-
----
-
-#### **Cronograma del Sprint 1**
-
-| **Fecha**    | **Actividad**                         |
-|--------------|---------------------------------------|
-| 9 de agosto  | Sprint Planning, Sprint Execution (HU1, HU2) |
-| 10 de agosto | Sprint Execution (HU3), Daily Scrum, Sprint Review, Sprint Retrospective |
