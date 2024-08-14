@@ -38,6 +38,7 @@
 - **Documentación y Soporte**: La documentación final está disponible para referencia y mantenimiento futuro. El equipo está disponible para cualquier soporte adicional que se requiera.
 
 ### Enlace a la Aplicación
-- **Aplicación**:  https://task-app-crud-next-js.vercel.app/ 
+- **Aplicación**:  https://task-app-crud-next-js.vercel.app/
+
   *¡Gracias por su interés en el Gestor de Tareas - TASK APP! Esperamos que la aplicación cumpla con sus expectativas y facilite la gestión de sus tareas diarias. Si tiene alguna pregunta o necesita soporte, no dude en contactarnos.*
 
