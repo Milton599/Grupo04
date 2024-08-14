@@ -42,7 +42,8 @@
 - **Código de Acceso**: PF8w8t
 
 ### Enlace a la Aplicación
-- **Aplicación Disponible en **: https://task-app-crud-next-js.vercel.app/ 
+- **Aplicación Disponible en **: https://task-app-crud-next-js.vercel.app/
+  
 ![image](https://github.com/user-attachments/assets/9c1a5c66-8ceb-4361-909e-50a9752e207a)
 
   *¡Gracias por su interés en el Gestor de Tareas - TASK APP! Esperamos que la aplicación cumpla con sus expectativas y facilite la gestión de sus tareas diarias. Si tiene alguna pregunta o necesita soporte, no dude en contactarnos.*
